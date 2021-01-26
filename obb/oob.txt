@@ -1,0 +1,9 @@
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+	}
+    support = {
+	}
+	priority = 1
+}

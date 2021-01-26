@@ -1,0 +1,8 @@
+SOV_world_revolution = {
+	picture = GFX_decision_cat_picture_ger_case_anto
+	icon = GFX_decision_aluminium
+	
+	allowed = {
+		original_tag = SOV
+	}
+}

@@ -1,0 +1,13 @@
+l_english:
+
+ #TODO
+ ﻿search_filter_prios:0 ""
+ ﻿search_filter_prios_desc:0 ""
+ focus_tree:0 ""
+ focus_tree_desc:0 ""
+ country:0 ""
+ country_desc:0 ""
+ initial_show_position:0 ""
+ initial_show_position_desc:0 ""
+ focus:0 ""
+ focus_desc:0 ""
