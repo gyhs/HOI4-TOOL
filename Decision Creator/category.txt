@@ -1,0 +1,8 @@
+SOV_world_revolution_22222 = {
+	picture = GFX_continue_rule_kor
+	icon = GFX_continue_rule_kor
+	
+	allowed = {
+		tag = SOV
+	}
+}
