@@ -242,6 +242,7 @@ class Ui_Dialog(object):
         self.select_visible_button.setText("選\n択")
         self.select_visible_button.setObjectName("Button")
         self.select_visible_button.clicked.connect(self.select_visible_option)
+        self.select_visible_button.clicked.connect(self.save_point)
         self.select_visible_button.setFont(QtGui.QFont("Meiryo", 10))
 
         self.select_visible_input = QtWidgets.QTextEdit(self.create_decision_window)
@@ -564,6 +565,10 @@ class Ui_Dialog(object):
         self.select_visible_input.setText("focus_progress = { \n\tfocus = GER_focus\n\tprogress < 0.5\n}")
         self.general_option_window.close()
         self.select_visible_window.close()
+
+    def save_point(self):
+        print("Select Category Name Button")
+        playsound("sound/click_sound.mp3")
 
     def select_category_name_option(self):
         print("Select Category Name Button")
