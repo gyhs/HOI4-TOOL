@@ -1,0 +1,144 @@
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/ALB - Albania.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_Vacant.tga
+[Line    48] - [GFX] DOES_NOT_EXIST :: [name] P_Vacant.tga
+[Line    57] - [GFX] DOES_NOT_EXIST :: [name] P_Vacant.tga
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] P_S_Omer_Nishani.tga
+[Line    75] - [GFX] DOES_NOT_EXIST :: [name] P_C_Enver_Hoxha.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/AND - Andorra.txt
+[Line    33] - [GFX] DOES_NOT_EXIST :: [name] P_A_Georges_Degrand.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/AUS - Austria.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_D_Karl_Renner.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/BEL - Belgium.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_D_Achille_Van_Acker.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/BUL - Bulgaria.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_A_Kimon_Georgiev.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/CHI - China.txt
+[Line    61] - [GFX] DOES_NOT_EXIST :: [name] P_A_Chiang_Kai_Shek.tga
+[Line    75] - [GFX] DOES_NOT_EXIST :: [name] P_A_Chiang_Kai_Shek.tga
+[Line    89] - [GFX] DOES_NOT_EXIST :: [name] P_A_Xu_Fulin.tga
+[Line    99] - [GFX] DOES_NOT_EXIST :: [name] P_S_Huang_Qixiang.tga
+[Line   109] - [GFX] DOES_NOT_EXIST :: [name] P_C_Chen_Duxiu.tga
+[Line    34] OPINION_MODIFIER_DOES_NOT_EXIST :: [name] hostile_status
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/CZE - Czechoslovakia.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_F_Radola_Gajda.tga
+[Line    48] - [GFX] DOES_NOT_EXIST :: [name] P_A_Jan_Syrovy.tga
+[Line    58] - [GFX] DOES_NOT_EXIST :: [name] P_D_Edvard_Benes.tga
+[Line    67] - [GFX] DOES_NOT_EXIST :: [name] P_S_Vaclav_Klofac.tga
+[Line    76] - [GFX] DOES_NOT_EXIST :: [name] P_C_Klement_Gottwald.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/DEN - Denmark.txt
+[Line    46] - [GFX] DOES_NOT_EXIST :: [name] P_F_Frits_Clausen.tga
+[Line    59] - [GFX] DOES_NOT_EXIST :: [name] P_A_Christian_X.tga
+[Line    72] - [GFX] DOES_NOT_EXIST :: [name] P_D_Knud_Kristensen.tga
+[Line    85] - [GFX] DOES_NOT_EXIST :: [name] P_S_Ernst_Christiansen.tga
+[Line    98] - [GFX] DOES_NOT_EXIST :: [name] P_C_Aksel_Larsen.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/EGY - Egypt.txt
+[Line    36] - [GFX] DOES_NOT_EXIST :: [name] P_A_Farouk_I.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/ETH - Ethiopia.txt
+[Line    40] - [GFX] DOES_NOT_EXIST :: [name] P_A_Haile_Selassie_I.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/FIN - Finland.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_F_Vihtori_Kosola.tga
+[Line    48] - [GFX] DOES_NOT_EXIST :: [name] P_A_Carl_Gustaf_Emil_Mannerheim.tga
+[Line    57] - [GFX] DOES_NOT_EXIST :: [name] P_D_Pehr_Svinhufvud.tga
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] P_S_Arvo_Tuominen.tga
+[Line    75] - [GFX] DOES_NOT_EXIST :: [name] P_C_Otto_Wille_Kuusinen.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/FRA - France.txt
+[Line    53] - [GFX] DOES_NOT_EXIST :: [name] P_D_Charles_de_Gaulle.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/GRE - Greece.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_A_Georgios_II.tga
+[Line    49] - [GFX] DOES_NOT_EXIST :: [name] P_F_Ioannis_Metaxas.tga
+[Line    58] - [GFX] DOES_NOT_EXIST :: [name] P_D_Panagis_Tsaldaris.tga
+[Line    67] - [GFX] DOES_NOT_EXIST :: [name] P_S_Kostas_Gavriilides.tga
+[Line    76] - [GFX] DOES_NOT_EXIST :: [name] P_C_Nikos_Zachariadis.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/HOL - Holland.txt
+[Line    50] - [GFX] DOES_NOT_EXIST :: [name] P_D_Charles_Ruijs_de_Beerenbrouck.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/HUN - Hungary.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_F_Ferenc_Szalasi.tga
+[Line    48] - [GFX] DOES_NOT_EXIST :: [name] P_A_High_National_council.tga
+[Line    57] - [GFX] DOES_NOT_EXIST :: [name] P_A_Zoltan_Tildy.tga
+[Line    67] - [GFX] DOES_NOT_EXIST :: [name] P_C_Matyas_Rakosi.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/ICE - Iceland.txt
+[Line    38] - [GFX] DOES_NOT_EXIST :: [name] P_D_Asgeir_Asgeirsson.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/IRE - Ireland.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_D_Eamon_de_Valera.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/ITA - Italy.txt
+[Line    45] - [GFX] DOES_NOT_EXIST :: [name] P_A_Victor_Emmanuel_III.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/JAP - Japan.txt
+[Line    42] - [GFX] DOES_NOT_EXIST :: [name] P_F_Vacant.tga
+[Line    68] - [GFX] DOES_NOT_EXIST :: [name] P_D_Hatoyama_Ichiro.tga
+[Line    81] - [GFX] DOES_NOT_EXIST :: [name] P_S_Katayama_Tetsu.tga
+[Line    94] - [GFX] DOES_NOT_EXIST :: [name] P_C_Kyuichi_Tokuda.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/LIB - Liberia.txt
+[Line    33] - [GFX] DOES_NOT_EXIST :: [name] P_D_William_Tubman.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/NOR - Norway.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_D_Jens_Hundseid.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/POL - Poland.txt
+[Line    39] - [GFX] DOES_NOT_EXIST :: [name] P_C_Boleslaw_Bierut.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/POR - Portugal.txt
+[Line    40] - [GFX] DOES_NOT_EXIST :: [name] P_A_Antonio_de_Oliveira_Salazar.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/ROM - Romania.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_A_Carol_II.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/SOV - Soviet union.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_C_Joseph_Stalin.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/SPR - Spain.txt
+[Line    38] - [GFX] DOES_NOT_EXIST :: [name] P_A_Jose_Sanjurjo.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/SWE - Sweden.txt
+[Line    44] - [GFX] DOES_NOT_EXIST :: [name] P_D_Per_Albin_Hansson.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/SWI - Switzerland.txt
+[Line    36] - [GFX] DOES_NOT_EXIST :: [name] Germany_FA_Ludwig_Beck.tga
+[Line    46] - [GFX] DOES_NOT_EXIST :: [name] Germany_PA_Wilhelm_II.tga
+[Line    56] - [GFX] DOES_NOT_EXIST :: [name] P_Federal_Council.tga
+[Line    66] - [GFX] DOES_NOT_EXIST :: [name] P_LWR_Jules_Humbert_Droz.tga
+[Line    76] - [GFX] DOES_NOT_EXIST :: [name] Germany_ST_Ludwig_Renn.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/TUR - Turkey.txt
+[Line    45] - [GFX] DOES_NOT_EXIST :: [name] P_F_Nihal_Atsiz.tga
+[Line    54] - [GFX] DOES_NOT_EXIST :: [name] P_A_Ismet_Inonu.tga
+[Line    63] - [GFX] DOES_NOT_EXIST :: [name] P_D_BMM.tga
+[Line    72] - [GFX] DOES_NOT_EXIST :: [name] P_S.tga
+[Line    80] - [GFX] DOES_NOT_EXIST :: [name] P_S_Kazim_Karabekir.tga
+[Line    89] - [GFX] DOES_NOT_EXIST :: [name] P_C_Sefik_Husnu.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/USA - USA.txt
+[Line    85] - [GFX] DOES_NOT_EXIST :: [name] P_F_Gerald_L_K_Smith.tga
+[Line    94] - [GFX] DOES_NOT_EXIST :: [name] P_A_Douglas_MacArthur.tga
+[Line   103] - [GFX] DOES_NOT_EXIST :: [name] P_D_Harry_S_Truman.tga
+[Line   112] - [GFX] DOES_NOT_EXIST :: [name] P_S_Norman_Thomas.tga
+[Line   121] - [GFX] DOES_NOT_EXIST :: [name] P_C_William_Z_Foster.tga
+
+[FILE] C:/Users/qwqwq/Documents/Paradox Interactive/Hearts of Iron IV/mod/twilight-struggle/history/countries/YUG - Yugoslavia.txt
+[Line    41] - [GFX] DOES_NOT_EXIST :: [name] P_F_Dimitrije_Ljotic.tga
+[Line    50] - [GFX] DOES_NOT_EXIST :: [name] P_A_Aleksandar_I.tga
+[Line    59] - [GFX] DOES_NOT_EXIST :: [name] P_D_Milan_Grol.tga
+[Line    68] - [GFX] DOES_NOT_EXIST :: [name] P_C_Ivan_Ribar.tga
+[Line    77] - [GFX] DOES_NOT_EXIST :: [name] P_C_Josep_Broz_Tito.tga
+[EVENTS]
+[LEADERS]
+[FOCI]
